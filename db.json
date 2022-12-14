@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "Name": "Nitish",
+      "Email": "nitish@gmail.com",
+      "Mobile": "1234567890",
+      "Salary": "80000"
+    },
+    {
+      "id": 2,
+      "Name": "Akash",
+      "Email": "akash@gmail.com",
+      "Mobile": "1234567565",
+      "Salary": "75000"
+    },
+    {
+      "id": 3,
+      "Name": "vinayak",
+      "Email": "vinayakshinde5716@gmail.com",
+      "Mobile": "1234567890",
+      "Salary": "121222"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
